@@ -20,6 +20,7 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 - The deadline for submission of the projects in November 6th, 1700 hrs. The presentation of shortlisted projects will be on november 6th, 1800 hrs. 
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/).
 - Please strictly adhere to the deadlines. Late submissions will not be entertained. 
+- DETAILS REGARDING PROJECT SUBMISSIONS WILL BE SHARED LATER. 
 
 --------------------------------
 ## Schedule
