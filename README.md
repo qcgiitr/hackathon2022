@@ -25,7 +25,7 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 --------------------------------
 ## Awards
 - For general prompt: INR 3500, INR 2000, INR 1500 and Medals for each team.
-- Separate prompt for Freshers: Top 5 submissions will be awarded cool swags by IBM and direct entry to QCG recruitments.
+- Separate prompt for Freshers: Top 5 submissions will be awarded cool swags by IBM Quantum and direct entry to QCG recruitments.
 - Certificates to all winners and completed projects.
 
 --------------------------------
@@ -57,7 +57,7 @@ Here is a nice [blog](https://medium.com/@qcgiitr/iitr-quantum-hackathon-2021-9f
 --------------------------------
 ## Contact
 
-For any queries please contact: 
+For any queries regarding the prompts please contact: 
 - Arnav Arora: +91 98933 79211 
 - Chirag Wadhwa: +91 99581 44441
 
