@@ -5,7 +5,7 @@ This is the Qiskit Fall Fest event for IIT Roorkee, "Dead & Alive". We're so exc
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Students work alongside IBM throughout the month of September to design and plan their event, which are then run in October-November. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
-The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on November 4th. Details about the hackathon and rules can be found below. The deadline for all projects is November 6th, at 1700 hrs IST. Any projects submitted after the deadline will NOT be judged. The presentations for shortlisted projects will be at 1800 hrs on the same day (November 6th).
+The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on November 4th. Details about the hackathon and rules can be found below. The deadline for all projects is November 6th, at 1630 hrs IST. Any projects submitted after the deadline will NOT be judged. The presentations for shortlisted projects will be at 1800 hrs on the same day (November 6th).
 
 --------------------------------
 ## Official Registration
