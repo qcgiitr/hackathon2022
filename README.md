@@ -14,7 +14,7 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 
 --------------------------------
 ## Hackathon Details
-- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony cum Workshop on November 3rd, 1900 hrs.
+- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony cum Workshop on November 4th, 1900 hrs.
 - There will be a seperate prompt and prize pool for freshmen (batch of 2026). 
 - There will be a general prompt for all participants (freshmen may take part in this too!)
 - The deadline for submission of the projects is November 6th, 1700 hrs. The presentation of shortlisted projects will be on november 6th, 1800 hrs. 
@@ -27,14 +27,14 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 
 We are proud to welcome you to the IIT Roorkee Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events and learning. Find the schedule below. 
 
-| Event                                                            | Date          | Time                 |
-| ---------------------------------------------------------------- | ------------  | -------------------- |
-| Workshop 1 - Introduction to Quantum Computing (Theoretical)     | 3rd November  | 1900 hrs to 2000hrs  |
-| Team Formation                                                   | 3rd November  | 2000 hrs to 2030 hrs |
-| Workshop 2 - Hands on with Qiskit (Practical)                    | 4th November  | 1900 hrs to 2000hrs  |
-| Opening Ceremony                                                 | 4th November  | 2000hrs to 2030 hrs  |
-| Project Presentations (for shortlisted candidates)               | 6th November  | 1800 hrs             |
-| Results                                                          | 8th November  |                      |
+| Event                                                            | Date          | Time                  |
+| ---------------------------------------------------------------- | ------------  | --------------------- |
+| Workshop 1 - Introduction to Quantum Computing (Theoretical)     | 3rd November  | 1900 hrs to 2000 hrs  |
+| Team Formation                                                   | 3rd November  | 2000 hrs to 2030 hrs  |
+| Workshop 2 - Hands on with Qiskit (Practical)                    | 4th November  | 1900 hrs to 2000 hrs  |
+| Opening Ceremony                                                 | 4th November  | 2000 hrs to 2030 hrs  |
+| Project Presentations (for shortlisted candidates)               | 6th November  | 1800 hrs              |
+| Results                                                          | 8th November  |                       |
 
 Make sure to join our [Discord server](https://discord.gg/tu6hAYwP7s) to stay up to date!
 
