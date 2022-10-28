@@ -35,7 +35,7 @@ We are proud to welcome you to the IIT Roorkee Qiskit Fall Fest. Our team of org
 
 - Workshop 1 - Introduction to Quantum Computing (Theoretical): November 3rd, 1900 hrs to 2000hrs 
 - Team Formation: November 3rd, 2000 hrs to 2030 hrs 
-- Workshop 2 - Hands on with Qiskit (Pratical): November 4th, 1900 hrs to 2000hrs 
+- Workshop 2 - Hands on with Qiskit (Practical): November 4th, 1900 hrs to 2000hrs 
 - Opening Ceremony: November 4th, 2000hrs to 2030 hrs 
 - Deadine for project submissions: November 6th, 1700 hrs 
 - Project Presentations (for shortlisted candidates): November 6th, 1800 hrs
