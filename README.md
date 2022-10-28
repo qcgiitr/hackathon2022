@@ -34,7 +34,7 @@ We are proud to welcome you to the IIT Roorkee Qiskit Fall Fest. Our team of org
 | Workshop 2 - Hands on with Qiskit (Practical)                    | 4th November  | 1900 hrs to 2000hrs  |
 | Opening Ceremony                                                 | 4th November  | 2000hrs to 2030 hrs  |
 | Project Presentations (for shortlisted candidates)               | 6th November  | 1800 hrs             |
-| Results                                                          | TBD           | TBD                  |
+| Results                                                          | 8th November  |                      |
 
 Make sure to join our [Discord server](https://discord.gg/tu6hAYwP7s) to stay up to date!
 
