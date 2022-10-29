@@ -16,7 +16,7 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 ## Hackathon Details
 - All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony cum Workshop on November 4th, 1900 hrs.
 - There will be a **seperate prompt** and prize pool for freshmen (batch of 2026). Individual submissions will be considered for this prompt.
-- There will be a **general prompt** for all participants (freshmen may take part in this too!). Each team must have 2-4 members.
+- There will be a **general prompt** for all participants (freshmen may take part in this too!). Each team must have **2 to 4 members**.
 - The deadline for submission of the projects is November 6th, 1630 hrs. The presentations for shortlisted projects will begin on November 6th, 1800 hrs. 
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/). We will cover Qiskit in our workshop also.
 - Please strictly adhere to the deadlines. Late submissions will not be entertained. 
@@ -25,7 +25,7 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 --------------------------------
 ## Rewards
 - For general prompt: INR 3500, INR 2000, INR 1500 and Medals for each team.
-- Separate prompt for Freshers: Top 5 submissions will be awarded cool swags by IBM Quantum and direct entry to QCG recruitments.
+- Separate prompt for Freshers: Top 5 submissions will be awarded cool swags by IBM Quantum and direct entry to QCG recruitment interviews.
 - Certificates to all winners and submitted projects.
 
 --------------------------------
@@ -39,7 +39,7 @@ We are proud to welcome you to the IIT Roorkee Qiskit Fall Fest. Our team of org
 | Team Formation                                                   | 3rd November  | 2000 hrs to 2030 hrs  |
 | Workshop 2 - Hands on with Qiskit (Practical)                    | 4th November  | 1900 hrs to 2000 hrs  |
 | Opening Ceremony                                                 | 4th November  | 2000 hrs to 2030 hrs  |
-| Project Presentations (for shortlisted projects)               | 6th November  | 1800 hrs              |
+| Project Presentations (for shortlisted projects)                 | 6th November  | 1800 hrs              |
 | Results                                                          | 8th November  | TBD                   |
 
 Make sure to join our [Discord server](https://discord.gg/tu6hAYwP7s) to stay up to date!
