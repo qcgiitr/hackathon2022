@@ -15,8 +15,9 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 --------------------------------
 ## Hackathon Details
 - All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony cum Workshop on November 4th, 1900 hrs.
-- There will be a **seperate prompt** and prize pool for freshmen (batch of 2026). Individual submissions will be considered for this prompt.
-- There will be a **general prompt** for all participants (freshmen may take part in this too!). Each team must have **2 to 4 members**.
+- There will be a **seperate prompt** and prize pool for freshmen (batch of 2026).
+- There will be a **general prompt** for all participants (freshmen may take part in this too!). 
+- Each team must have **2 to 4 members**.
 - The deadline for submission of the projects is November 6th, 1630 hrs. The presentations for shortlisted projects will begin on November 6th, 1800 hrs. 
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/). We will cover Qiskit in our workshop also.
 - Please strictly adhere to the deadlines. Late submissions will not be entertained. 
