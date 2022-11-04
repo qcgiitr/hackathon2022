@@ -1,7 +1,7 @@
 # Qiskit Fall Fest 2022 - IIT Roorkee
 
 ## Welcome
-This is the Qiskit Fall Fest event for IIT Roorkee, "Dead & Alive". We're so excited to have you all here. This event is being hosted by the Quantum Computing Group (QCG), IIT Roorkee.
+This is the Qiskit Fall Fest event for IIT Roorkee, "Dead & Alive". We're so excited to have you all here. This event is being hosted by the Quantum Computing Group (QCG), IIT Roorkee. Join the [Discord]((https://discord.gg/tu6hAYwP7s) for speedy updates!
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Students work alongside IBM throughout the month of September to design and plan their event, which are then run in October-November. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
@@ -19,7 +19,9 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 - There will be a **general prompt** for all participants (freshmen may take part in this too!). Each team must have **2 to 4 members**.
 - The deadline for submission of the projects is November 6th, 1630 hrs. The presentations for shortlisted projects will begin on November 6th, 1800 hrs. 
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/). We will cover Qiskit in our workshop also.
+- For the fresher's prompt, ties will be broken on the basis of the submission time.
 - Please strictly adhere to the deadlines. Late submissions will not be entertained. 
+- Please follow the code of conduct with utmost seriousness. Breaking rules will lead to immediate disqualification 
 - DETAILS REGARDING PROJECT SUBMISSIONS WILL BE SHARED LATER. 
 
 --------------------------------
@@ -54,17 +56,20 @@ Here is a nice [blog](https://medium.com/@qcgiitr/iitr-quantum-hackathon-2021-9f
 --------------------------------
 ## Code of Conduct
 
+- Spoilers and sharing of answers in discord server or any other personal messaging platform is not allowed. 
+- Any form of plagiarism will lead to disqualification.
+- Please submitt on time, late submissions will not be entertained. 
 [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
 
 --------------------------------
 ## Contact
 
-For queries regarding registration and workshops please contact: 
-- Anvita: +91 91361 00102 
-- Riya: +91 73893 45088
-
 For queries regarding the prompts please contact: 
 - Arnav: +91 98933 79211 
 - Chirag: +91 99581 44441
+
+For queries regarding registration and workshops please contact: 
+- Anvita: +91 91361 00102 
+- Riya: +91 73893 45088
 
 Dropping a text on Whatsapp before a call would be greatly appreciated. 
