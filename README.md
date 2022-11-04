@@ -25,6 +25,13 @@ The Fall Fest here at IIT Roorkee is going to be a hackathon, starting on Novemb
 - DETAILS REGARDING PROJECT SUBMISSIONS WILL BE SHARED LATER. 
 
 --------------------------------
+## Prompts 
+
+Please find the prompts in the repository files above. 
+- General Prompt : general prompt.pdf is a pdf file containg the prompt statement.
+- Fresher's Prompt: Freshers_Prompt.ipynb is a I Python Notebook (similar to Google Colab) which must be filled and completed by frshers.
+
+--------------------------------
 ## Rewards
 - For general prompt: INR 3500, INR 2000, INR 1500 and Medals for each team.
 - Separate prompt for Freshers: Top 5 submissions will be awarded cool swags by IBM Quantum and direct entry to QCG recruitment interviews.
