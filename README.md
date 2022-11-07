@@ -34,7 +34,7 @@ Please find the prompts in the repository files above.
 --------------------------------
 ## Rewards
 - For general prompt: INR 3500, INR 2000, INR 1500 and Medals for each team.
-- Separate prompt for Freshers: Top 5 submissions will be awarded cool swags by IBM Quantum and direct entry to QCG recruitment interviews.
+- Separate prompt for Freshers: Swags by IBM Quantum and direct entry to QCG recruitment interviews.
 - Certificates to all winners and submitted projects.
 
 --------------------------------
