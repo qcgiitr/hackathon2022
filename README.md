@@ -69,14 +69,3 @@ Here is a nice [blog](https://medium.com/@qcgiitr/iitr-quantum-hackathon-2021-9f
 [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
 
 --------------------------------
-## Contact
-
-For queries regarding the prompts please contact: 
-- Arnav: +91 98933 79211 
-- Chirag: +91 99581 44441
-
-For queries regarding registration and workshops please contact: 
-- Anvita: +91 91361 00102 
-- Riya: +91 73893 45088
-
-Dropping a text on Whatsapp before a call would be greatly appreciated. 
